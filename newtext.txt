@@ -1,1 +1,2 @@
 this is my new text document
+i'm adding line 1 to this document
