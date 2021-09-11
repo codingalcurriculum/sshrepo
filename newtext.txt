@@ -3,3 +3,5 @@ i'm adding line 1 to this document
 changing the content in remote  repository
 adding the content from local
 adding the second line from local 
+adding second content from remote repository
+
